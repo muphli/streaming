@@ -14,8 +14,9 @@ footer: @muphli
 
 - Headsets
 	- Turtle Beach XO One
-  	- Sennheiser G4me One/G4me Zero
-  	- Lioncast LX50
+	- Lioncast LX50
+  	- Sennheiser G4me One/G4me Zero/PC 360/PC 363D/PC 373D/GSP 300/GSP 350 
+  	- Beyerdynamic MMX 300
 - ModMic/V-Moda BoomPro/Custom One Headset Gear
 - Headset Mics
 - Lav Mics
