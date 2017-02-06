@@ -10,14 +10,20 @@ footer: @muphli
 
 # Audio
 
-- Mics
-  - Headsets
-  - ModMic/V-Moda BoomPro/Custom One Headset Gear
-  - Headset Mics
-  - Lav Mics
-  - Condenser Mics ([XLR](https://en.wikipedia.org/wiki/XLR_connector) and USB)
+---
+
+- Headsets
+	- Turtle Beach XO One
+  	- Sennheiser G4me One/G4me Zero
+  	- Lioncast LX50
+- ModMic/V-Moda BoomPro/Custom One Headset Gear
+- Headset Mics
+- Lav Mics
+- Condenser Mics ([XLR](https://en.wikipedia.org/wiki/XLR_connector) and USB)
 - Interfaces
-- Mixer
+- Mixers
+	- Behringer Xenyx 302USB
+	- Yamaha AG03/AG06
 
 ---
 
