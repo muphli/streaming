@@ -29,6 +29,8 @@ footer: @muphli
 
 # Video
 
+---
+
 - Cams
 - Capture Cards
 - Background Removal
@@ -37,6 +39,8 @@ footer: @muphli
 
 # Background Removal
 
+---
+
 - Greenscreen + Color Keying
 - Depth-Sensing: [Razer Stargazer](http://www.razerzone.com/de-de/gaming-broadcaster/razer-stargazer)/[Intel RealSense](http://www.intel.de/content/www/de/de/architecture-and-technology/realsense-overview.html), [Microsoft Kinect](http://www.xbox.com/de-DE/xbox-one/accessories/kinect-for-xbox-one#fbid=onfb4-ur7AE)
 - Image-Analysis: [Personify ChromaCam](https://www.personify.com/products/chromacam/), [TriDef SmartCam](https://www.tridef.com/products/smartcam)
@@ -44,6 +48,8 @@ footer: @muphli
 ---
 
 # Software
+
+---
 
 - Streaming-Tools
 - Bots
@@ -54,12 +60,16 @@ footer: @muphli
 
 # Setup
 
+---
+
 - OBS
 - Capture Card
 
 ---
 
 # Further Resources
+
+---
 
 - [Podcaststage](https://www.youtube.com/channel/UCvOU-zTlankT-JjN3ZzvuKA) - Mic Tests, English
 - [RobinJack0r](https://www.youtube.com/channel/UCa6nICndWDNn76nJw4kYbLQ) - Audio/Video/Streaming Guides and Tutorials, German
